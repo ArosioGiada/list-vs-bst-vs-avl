@@ -36,6 +36,4 @@ The numbers are inserted in **random order**, and a BST built from random insert
 
 Choose option 1, enter a number to search for, and the timings for all three structures are printed. Choose option 2 to exit.
 
-## Author
-
-Giada Arosio — built for the Algorithms and Data Structures unit at Torrens University Australia.
+> Project built for the Algorithms and Data Structures unit at Torrens University Australia.
